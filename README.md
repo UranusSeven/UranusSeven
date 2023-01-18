@@ -1,4 +1,2 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UranusSeven/langs)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UranusSeven/repos)](https://githubtrends.io)
-
+[![Anurag's GitHub stats](https://github-readme-stats-uranusseven.vercel.app/api?username=uranusseven)](https://github.com/UranusSeven/github-readme-stats)
 
